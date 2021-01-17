@@ -11,15 +11,14 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Debarun Roy,',
-  subtitle: 'a Web Developer and ML Enthusiast also a 4* Coder at Codechef',
+  subtitle: 'a Web Developer and a ML Enthusiast also a 4* Coder at Codechef',
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne:
-    'I am in my final year of BTech studying Computer Science Engineering from Government College of Engineering And Leather Technology with a Cumulative GPA of 8.92. I love to solve Problems tweaking DS and Algorithms also very much interested in emerging Software Engineering solutions of real-world problems.I am quite proficient in Data Structures and Algorithms in C++ and solved over 500 problems on platforms like GFG, Leetcode, Hackerrank, Codechef and CodeForces. I am a 4* coder at Codechef (username: deb14).I am quite interested in Web Developement(MERN), ML algorithms and Deep Learning solutions (CNN) . I am proficient in C++ and intermediate in Javascript, Python and C. I am interested in and familiar with Web Development Using HTML, CSS, JavaScript and worked using React framework.',
+  paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
   resume: 'https://drive.google.com/file/d/1P-7XNCtZY67E7VoWff7z50MpQxyVnmyo/view?usp=sharing', // if no resume, the button will not show up
@@ -62,7 +61,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: 'debarunroy15827@gmail.com',
+  email: 'debarunroy15824@gmail.com',
 };
 
 // FOOTER DATA
